@@ -14,7 +14,6 @@ const Header = () =>{
   const toggleMenuOpen = () =>{
     setMenuOpen(!menuOpen);
   }
-
   const closeMenu = () =>{
     setMenuOpen(!menuOpen);
   }
