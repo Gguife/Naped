@@ -1,0 +1,73 @@
+.hero-title{
+  margin: 2rem 0;
+}
+.hero-title h1{
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+.hero-title p{
+  line-height: 1.5rem;
+  text-align: start;
+}
+
+.hero-img-content{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  gap: 1rem;
+}
+
+.main-image{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme1.png");
+  background-size: cover;
+  max-width: 760px;
+  width: 100%;
+  height: 350px;
+  position: relative;
+}
+.main-image span, .image2 span, .image3 span{
+  position: absolute;
+  padding: .2rem 1rem;
+  background-color: var(--brand-color);
+  left: .5rem;
+  top: .5rem;
+  font-size: .8rem;
+  border-radius: 2px;
+}
+.main-image p{
+  position: absolute;
+  bottom: 0;
+  max-width: 500px;
+  bottom: 2rem;
+  left: 8rem;
+  text-align: start;
+}
+
+.dupla-image{
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.image2{
+  background-image: url("../../assets/anime1.png");
+  background-size: cover;
+  height: 165px;
+  position: relative;
+}
+.image3{
+  background-image: linear-gradient(to bottom, transparent, #13131F),url("../../assets/jogo1.png");
+  background-size: cover;
+  height: 165px;
+  position: relative;
+}
+.image2 p, .image3 p{
+  position: absolute;
+  bottom: 0;
+  max-width: 300px;
+  bottom: 1rem;
+  left: 4rem;
+  text-align: start;
+  font-size: .7rem;
+}
