@@ -3,6 +3,7 @@ header{
   margin: 1rem auto;
   padding: 0 .5rem;
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 header h1{
@@ -81,4 +82,47 @@ header h1{
 /*MENU MOBILE*/
 .menu-mobile{
   display: none;
+  margin-top: .5rem;
+}
+.container-menu-mobile{
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--brand-color);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  padding: 5rem 0;
+  transition: left ease .5s;
+  overflow: hidden;
+}
+.mobile-nav li{
+  list-style: none;
+  margin: 1rem 0;
+}
+.container-menu-mobile span{
+  font-weight: 700;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+.container-menu-mobile button{
+  padding: .7rem 2.5rem;
+  background-color: var(--dark-40);
+  border: none;
+  border-radius: 10px;
+  color: var(--brand-color);
+  font-weight: 700;
+}
+
+@media (max-width: 700px){
+  .container-menu{
+    display: none;
+  }
+
+  .menu-mobile{
+    display: block;
+  }
 }
