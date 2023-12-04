@@ -29,22 +29,22 @@
 }
 
 .anime{
-  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime5.png");
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../../assets/anime5.png");
   background-size: cover;
   background-position: center center;
 }
 .movie{
-  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme6.png");
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../../assets/filme6.png");
   background-size: cover;
   background-position: center center;
 }
 .serie{
-  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme5.png");
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../../assets/filme5.png");
   background-size: cover;
   background-position: center center;
 }
 .game{
-  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/jogo3.png");
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../../assets/jogo3.png");
   background-size: cover;
   background-position: center center;
 }

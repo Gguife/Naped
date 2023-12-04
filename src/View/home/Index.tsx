@@ -1,6 +1,6 @@
-import Hero from "../../components/hero/Index";
-import ScrollCards from "../../components/scrollCards/Index";
-import NoScrollCard from "../../components/scrollCards/NoScrollCards/Index";
+import NoScrollCard from "../../components/home/NoScrollCards/Index";
+import Hero from "../../components/home/hero/Index";
+import ScrollCards from "../../components/home/scrollCards/Index";
 import "./Style.css";
 
 const Home = () => {
