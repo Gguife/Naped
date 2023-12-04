@@ -41,7 +41,7 @@ const Header = () =>{
           <path d="M21 14H3" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
           <path d="M21 18H7" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
-        <div className="container-menu-mobile" style={{left: menuOpen ? "35%" : "100%"}}>
+        <div className="container-menu-mobile" style={{left: menuOpen ? "0%" : "100%"}}>
           <span onClick={closeMenu}>X</span>
           <nav className="mobile-nav">
             <ul>

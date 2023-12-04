@@ -86,7 +86,7 @@ header h1{
 }
 .container-menu-mobile{
   display: flex;
-  position: absolute;
+  position: fixed;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
@@ -97,6 +97,8 @@ header h1{
   padding: 5rem 0;
   transition: left ease .5s;
   overflow: hidden;
+  opacity: .99;
+  z-index: 999;
 }
 .mobile-nav li{
   list-style: none;
