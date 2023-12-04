@@ -29,7 +29,7 @@ body{
 
 section{
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 3rem auto;
 }
 
 a{
@@ -37,4 +37,25 @@ a{
   color: var(--dark-30);
   font-size: 1.1rem;
   transition: all ease .3s;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: .5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--dark-20);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--brand-color);
+}
+
+/* SUPPORT SCROLLBAR */
+@supports (scrollbar-color: gray purple) {
+  * {
+    scrollbar-color: var(--dark-30) var(--dark-40);
+    scrollbar-width: auto;
+  }
 }
