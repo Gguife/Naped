@@ -13,7 +13,7 @@ const ScrollCards = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </h2>
           <p className="scroll-img-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br /> eros
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
@@ -30,7 +30,7 @@ const ScrollCards = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </h2>
           <p className="scroll-img-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br />eros
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
@@ -47,7 +47,7 @@ const ScrollCards = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </h2>
           <p className="scroll-img-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br />eros
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
@@ -64,7 +64,7 @@ const ScrollCards = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </h2>
           <p className="scroll-img-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br />eros
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
@@ -81,7 +81,7 @@ const ScrollCards = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </h2>
           <p className="scroll-img-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br />eros
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
@@ -98,7 +98,7 @@ const ScrollCards = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </h2>
           <p className="scroll-img-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla <br />eros
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>

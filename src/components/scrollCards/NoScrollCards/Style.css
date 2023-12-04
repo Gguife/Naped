@@ -48,3 +48,10 @@
     padding: 0 0 0 2rem;
   }
 }
+
+@media (max-width: 750px){
+  .noscroll-container{
+    display: none;
+  }
+}
+

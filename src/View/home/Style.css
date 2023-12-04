@@ -1,5 +1,5 @@
 .home{
-  padding: 1rem;
+  padding: 1rem 2rem;
 }
 
 .section-scroll{
@@ -7,4 +7,10 @@
   margin-top: 5rem;
   align-items: center;
   justify-content: space-between;
+}
+
+@media (max-width: 500px){
+  .section-scroll{
+    margin-top: 3.5rem;
+  }
 }

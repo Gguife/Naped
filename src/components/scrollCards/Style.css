@@ -30,15 +30,23 @@
 
 .anime{
   background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime5.png");
+  background-size: cover;
+  background-position: center center;
 }
 .movie{
   background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme6.png");
+  background-size: cover;
+  background-position: center center;
 }
 .serie{
   background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme5.png");
+  background-size: cover;
+  background-position: center center;
 }
 .game{
   background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/jogo3.png");
+  background-size: cover;
+  background-position: center center;
 }
 
 .scroll-img-texts{
@@ -52,6 +60,8 @@
 }
 .scroll-img-text, .scroll-img-date{
   font-size: .8rem;
+  max-width: 400px;
+  padding-right: .5rem;
   color: var(--dark-30);
 }
 .scroll-btn{
@@ -65,4 +75,24 @@
 }
 .scroll-btn:hover{
   opacity: .7;
+}
+
+@media (max-width: 500px){
+  .scroll{
+    height: 330px;
+  }
+  .scroll-img{
+    width: 600px;
+  }
+  .scroll-img-title{
+    font-size: .8rem;
+    padding-right: .5rem;
+  }
+  .scroll-img-text, .scroll-img-date{
+    font-size: .6rem;
+    color: var(--dark-30);
+  }
+  .scroll-btn{
+    font-size: .6rem;
+  }
 }

@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-title">
         <h1>Mundo Nerd? <br />Naped!</h1>
-        <p>O Naped pode ser sua fonte de informações sobre <br /> o mundo nerd e outros assuntos relacionados.</p>
+        <p>O Naped pode ser sua fonte de informações sobre o mundo nerd e outros assuntos relacionados.</p>
       </div>
       <div className="hero-img-content">
         <div className="main-image">
