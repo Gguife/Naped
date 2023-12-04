@@ -16,12 +16,12 @@ const Hero = () => {
         </div>
         <div className="dupla-image">  
           <div className="image2">
-          <span>Lorem</span>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.</p>
+            <span>Lorem</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.</p>
           </div>
           <div className="image3">
-          <span>Lorem</span>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.</p>
+            <span>Lorem</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor.</p>
           </div>
         </div>
       </div>

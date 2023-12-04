@@ -1,3 +1,10 @@
 .home{
   padding: 1rem;
 }
+
+.section-scroll{
+  display: flex;
+  margin-top: 5rem;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,68 @@
+.scroll{
+  height: 700px;
+  overflow-y: scroll;
+  background:  linear-gradient(to bottom, transparent, #13131F);
+}
+
+.scroll-img-item{
+  margin: 0 0 2rem 0;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.scroll-img{
+  background-size: cover;
+  max-width: 200px;
+  width: 100%;
+  height: 150px;
+  position: relative;
+}
+.scroll-img span{
+  position: absolute;
+  padding: .2rem .7rem;
+  background-color: var(--brand-color);
+  left: .5rem;
+  top: .5rem;
+  font-size: .6rem;
+  border-radius: 2px;
+}
+
+.anime{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime5.png");
+}
+.movie{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme6.png");
+}
+.serie{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme5.png");
+}
+.game{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/jogo3.png");
+}
+
+.scroll-img-texts{
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  width: 800px;
+}
+.scroll-img-title{
+  font-size: 1rem;
+}
+.scroll-img-text, .scroll-img-date{
+  font-size: .8rem;
+  color: var(--dark-30);
+}
+.scroll-btn{
+  padding: .2rem 0;
+  max-width: 100px;
+  background-color: var(--brand-color);
+  font-size: .8rem;
+  text-align: center;
+  border-radius: 3px;
+  transition: .3s;
+}
+.scroll-btn:hover{
+  opacity: .7;
+}

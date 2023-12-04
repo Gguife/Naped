@@ -1,0 +1,50 @@
+.noscroll-container{
+  padding: 0 0 0 4rem;
+}
+
+.noscroll-container hr{
+  border-color: var(--brand-color);
+  margin: .3rem 0 1rem 0;
+  width: 60%;
+}
+
+.noscroll-img{
+  background-size: cover;
+  width: 350px;
+  height: 200px;
+  margin-bottom: 1rem;
+  position: relative;
+}
+.img1{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../../assets/anime2.png");
+}
+.img2{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../../assets/filme3.png");
+}
+.img3{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../../assets/jogo5.png");
+}
+
+.noscroll-img span{
+  position: absolute;
+  padding: .2rem .7rem;
+  background-color: var(--brand-color);
+  left: .5rem;
+  top: .5rem;
+  font-size: .6rem;
+  border-radius: 2px;
+}
+.noscroll-text{
+  position: absolute;
+  bottom: 1.5rem;
+  font-size: .7rem;
+  opacity: .7;
+  text-align: center;
+}
+
+
+@media (max-width: 1200px){
+  .noscroll-container{
+    padding: 0 0 0 2rem;
+  }
+}
