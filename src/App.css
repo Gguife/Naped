@@ -27,7 +27,7 @@ body{
   font-family: 'Lexend Deca', sans-serif;
 }
 
-section{
+.section{
   max-width: 1200px;
   margin: 0 auto;
 }
