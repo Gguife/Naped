@@ -9,6 +9,11 @@
   justify-content: space-between;
 }
 
+.section-news{
+  max-width: 1440px;
+  margin: 5rem auto;
+}
+
 @media (max-width: 500px){
   .section-scroll{
     margin-top: 3.5rem;
