@@ -29,16 +29,17 @@
   margin: .5rem 0;
   font-size: .8rem;
 }
-.news-card button{
+.news-card a{
   background-color: var(--brand-color);
-  padding: .3rem 1.5rem;
+  padding: .2rem 1.2rem;
   color: var(--dark-40);
   border: none;
   border-radius: 3px;
   cursor: pointer;
   transition: .3s;
+  font-size: .8rem;
 }
-.news-card button:hover{
+.news-card a:hover{
   background-color: var(--dark-40);
   color: var(--brand-color);
 }
@@ -51,8 +52,8 @@
   .news-card p{
     font-size: .6rem;
   }
-  .news-card button{
-    padding: .2rem 1.2rem;
+  .news-card a{
+    padding: .2rem 1rem;
     font-size: .7rem;
   }
 }
@@ -61,8 +62,8 @@
   .news-cards{
     grid-template-columns: repeat(2, 1fr);
   }
-  .news-card button{
-    padding: .2rem 1rem;
+  .news-card a{
+    padding: .2rem .8rem;
     font-size: .6rem;
   }
 }

@@ -1,4 +1,6 @@
 import "./Style.css";
+import { Link } from "react-router-dom";
+
 import Anime1 from "../../../assets/anime6.png";
 import Anime2 from "../../../assets/anime8.png";
 import Filme1 from "../../../assets/filme7.png";
@@ -17,7 +19,7 @@ const NewsHome = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
           </p>
-          <button>Veja mais</button>
+          <Link to="/noticia">Veja mais</Link>
         </div>
 
         <div className="news-card">
@@ -26,7 +28,7 @@ const NewsHome = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
           </p>
-          <button>Veja mais</button>
+          <Link to="/noticia">Veja mais</Link>
         </div>
         
         <div className="news-card">
@@ -35,7 +37,7 @@ const NewsHome = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
           </p>
-          <button>Veja mais</button>
+          <Link to="/noticia">Veja mais</Link>
         </div>
         
         <div className="news-card">
@@ -44,7 +46,7 @@ const NewsHome = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
           </p>
-          <button>Veja mais</button>
+          <Link to="/noticia">Veja mais</Link>
         </div>
         
         <div className="news-card">
@@ -53,7 +55,7 @@ const NewsHome = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
           </p>
-          <button>Veja mais</button>
+          <Link to="/noticia">Veja mais</Link>
         </div>
         
         <div className="news-card">
@@ -62,7 +64,7 @@ const NewsHome = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
           </p>
-          <button>Veja mais</button>
+          <Link to="/noticia">Veja mais</Link>
         </div>
       </div>
     </div>

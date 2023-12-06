@@ -17,7 +17,7 @@ const ScrollCards = () =>{
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
-          <Link className="scroll-btn" to="">Ler notícia</Link>
+          <Link className="scroll-btn" to="/noticia">Ler notícia</Link>
         </div>
       </article>
 
@@ -34,7 +34,7 @@ const ScrollCards = () =>{
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
-          <Link className="scroll-btn" to="">Ler notícia</Link>
+          <Link className="scroll-btn" to="/noticia">Ler notícia</Link>
         </div>
       </article>
 
@@ -51,7 +51,7 @@ const ScrollCards = () =>{
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
-          <Link className="scroll-btn" to="">Ler notícia</Link>
+          <Link className="scroll-btn" to="/noticia">Ler notícia</Link>
         </div>
       </article>
 
@@ -68,7 +68,7 @@ const ScrollCards = () =>{
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
-          <Link className="scroll-btn" to="">Ler notícia</Link>
+          <Link className="scroll-btn" to="/noticia">Ler notícia</Link>
         </div>
       </article>
 
@@ -85,7 +85,7 @@ const ScrollCards = () =>{
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
-          <Link className="scroll-btn" to="">Ler notícia</Link>
+          <Link className="scroll-btn" to="/noticia">Ler notícia</Link>
         </div>
       </article>
 
@@ -102,7 +102,7 @@ const ScrollCards = () =>{
             tellus, malesuada et velitin, blandit molestie dolor.
           </p>
           <p className="scroll-img-date">00/00/0000</p>
-          <Link className="scroll-btn" to="">Ler notícia</Link>
+          <Link className="scroll-btn" to="/noticia">Ler notícia</Link>
         </div>
       </article>
 
