@@ -1,0 +1,60 @@
+.notfound-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  padding: 1rem;
+}
+
+.notfound-main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.notfound-main h1{
+  font-size: 3rem;
+  text-align: center;
+}
+.notfound-main p{
+  font-size: 1rem;
+  margin: .5rem 0 4rem 0;
+  max-width: 500px;
+  text-align: center;
+}
+.notfound-main a{
+  background-color: var(--brand-color);
+  padding: .5rem 1rem;
+  cursor: pointer;
+  transition: .3s;
+  border-radius: 2px;
+}
+.notfound-main a:hover{
+  opacity: .4;
+}
+
+
+@media (max-width: 500px){
+  .notfound-main{
+  }
+  .notfound-main h1{
+    font-size: 1.2rem;
+  }
+  .notfound-main p{
+    font-size: .8rem;
+    margin: .5rem 0 2rem 0;
+    max-width: 300px;
+  }
+  .notfound-main svg{
+    max-width: 300px;
+  }
+}
+
+
+
+
+
+
+
+
+
