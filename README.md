@@ -8,7 +8,7 @@ Desenvolvimento de uma Landing Page de entretenimento, visando muito a responsiv
 
 <hr>
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width='90%' />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/naped.png" width='90%' />
 </h1>
 
 <p>Link: <a href="">Naped</a></p>
