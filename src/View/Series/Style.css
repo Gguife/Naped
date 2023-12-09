@@ -24,18 +24,18 @@
 }
 
 
-.series-content{
+.page-content{
   margin: 3rem 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
-.serie1-container, .serie2-container, .serie3-container{
+.card-page-container{
   display: flex;
   flex-direction: column;
   gap: 1rem;
 }
-.serie1-img-background, .serie2-img-background, .serie3-img-background{
+.image-card-page{
   background-size: cover;
   background-position: center center;
   max-width: 400px;
@@ -52,7 +52,7 @@
   background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme7.png");
 }
 
-.serie1-container p, .serie2-container p, .serie3-container p{
+.card-page-container p{
   font-size: .6rem;
   max-width: 400px;
   text-align: center;
