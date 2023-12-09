@@ -1,0 +1,35 @@
+.movies-container{
+  padding: 1rem;
+  margin: 2rem auto;
+}
+
+.movies-main-image{
+  background-image: linear-gradient(to left, transparent, #13131F), url("../../assets/filme6.png");
+  background-size: cover;
+  height: 300px;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 1rem;
+}
+
+.movies-main-image h1{
+  font-weight: 400;
+  font-size: 3rem;
+}
+.movies-main-image p{
+  max-width: 400px;
+  margin-top: 1rem;
+  font-size: .9rem;
+}
+
+.movie1-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme2.png");
+}
+.movie2-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme3.png");
+}
+.movie3-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/filme4.png");
+}
