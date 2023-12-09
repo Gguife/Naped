@@ -19,39 +19,75 @@ const Series = () =>{
       <section className="page-content">
         <div className="card-page-container">
           <div className="serie1-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie1-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie1-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie1-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
         </div>
         
         <div className="card-page-container">
           <div className="serie2-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie2-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie2-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie2-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
         </div>
 
         <div className="card-page-container">
           <div className="serie3-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie3-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie3-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
           <div className="serie3-img-background image-card-page"></div>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros tellus, malesuada et velit in, blandit molestie dolor."</p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+              Nulla eros tellus, malesuada et velit in, blandit molestie dolor.
+            </p>
         </div>
       </section>
 
-      <section className="button-page-section">
+      <section>
         <ButtonPages />
       </section>
     </div>
