@@ -1,0 +1,53 @@
+.animes-container{
+  padding: 1rem;
+  margin: 2rem auto;
+}
+
+.animes-main-image{
+  background-image: linear-gradient(to left, transparent, #13131F), url("../../assets/anime9.png");
+  background-size: cover;
+  height: 300px;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 1rem;
+}
+
+.animes-main-image h1{
+  font-weight: 400;
+  font-size: 3rem;
+}
+.animes-main-image p{
+  max-width: 400px;
+  margin-top: 1rem;
+  font-size: .9rem;
+}
+
+.anime1-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime1.png");
+}
+.anime2-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime2.png");
+}
+.anime3-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime3.png");
+}
+.anime4-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime4.png");
+}
+.anime5-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime5.png");
+}
+.anime6-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime6.png");
+}
+.anime7-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime7.png");
+}
+.anime8-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime8.png");
+}
+.anime9-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/anime9.png");
+}
