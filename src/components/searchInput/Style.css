@@ -1,0 +1,17 @@
+.series-search {
+  display: flex;
+  padding: 1rem 0;
+  position: relative;
+}
+.series-search input{
+  width: 100%;
+  border: none;
+  padding: 1rem .7rem;
+  background-color: var(--dark-20);
+  color: #fff;
+}
+.icon-search {
+  position: absolute;
+  right: 1.5rem;
+  top: 1.6rem;
+}
