@@ -1,0 +1,36 @@
+.games-container{
+  padding: 1rem;
+  margin: 2rem auto;
+}
+
+.games-main-image{
+  background-image: linear-gradient(to left, transparent, #13131F), url("../../assets/jogo4.png");
+  background-size: cover;
+  height: 300px;
+  background-position: center top;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 1rem;
+}
+
+.games-main-image h1{
+  font-weight: 400;
+  font-size: 3rem;
+}
+.games-main-image p{
+  max-width: 400px;
+  margin-top: 1rem;
+  font-size: .9rem;
+}
+
+
+.game1-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/jogo5.png");
+}
+.game2-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/jogo3.png");
+}
+.game3-img-background{
+  background-image: linear-gradient(to bottom, transparent, #13131F), url("../../assets/jogo2.png");
+}
