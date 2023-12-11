@@ -11,7 +11,7 @@ Desenvolvimento de uma Landing Page de entretenimento, visando muito a responsiv
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/naped.png" width='90%' />
 </h1>
 
-<p>Link: <a href="">Naped</a></p>
+<p>Link: <a href="https://naped-nine.vercel.app/">Naped</a></p>
 
 ### 🛠 Tecnologias
 
